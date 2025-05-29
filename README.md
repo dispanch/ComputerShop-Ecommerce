@@ -12,9 +12,7 @@ The entirety of the application (frontend and backend) is hosted on [Render](htt
 
 Frontend (global CDN): [Try it out](https://computershop-frontend.onrender.com/)
 
-Backend (Singapore): [Try it out](https://computershop-ananyo.onrender.com/api/v1/products/)
 
-Youtube Demo: [On my channel](https://www.youtube.com/watch?v=1uHAwhE77C0)
 
 _**NOTE**: Since render has restrictions for free tier web services, the startup time can take several seconds for the first request._
 
